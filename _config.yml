@@ -57,23 +57,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Duncan Watson-Parris"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PI of the Climate Analytics Lab"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://duncanwp.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dwatsonparris"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/duncanwp"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
@@ -105,7 +88,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
