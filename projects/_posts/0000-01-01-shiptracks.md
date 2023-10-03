@@ -1,5 +1,9 @@
 ---
 title: Detecting Ship-tracks
+header:
+  teaser: "assets/images/shiptracks_small.jpg"
+code: https://github.com/duncanwp/shiptrack-detection
+data: https://catalogue.ceda.ac.uk/uuid/0d88dc06fd514e8199cdd653f00a7be0
 tags:
   - shallow-clouds
   - image-segmentation
@@ -57,9 +61,3 @@ clouds in response to aerosols much larger than was recently assessed by the IPC
     perturbations with deep learning" *Climate Change: How Can AI Help?
     workshop at ICML 2019, Long Beach, California:*
     <https://arxiv.org/abs/1911.13061>  
-
-## Code
- - [Shiptrack detection](https://github.com/duncanwp/shiptrack-detection)
-
-## Data
- - https://catalogue.ceda.ac.uk/uuid/0d88dc06fd514e8199cdd653f00a7be0

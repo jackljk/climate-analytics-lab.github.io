@@ -1,5 +1,9 @@
 ---
 title: Climate model emulation
+header:
+  teaser: "assets/images/emulator_schematic.svg"
+code: https://github.com/duncanwp/ESEm
+data: https://doi.org/10.5281/zenodo.3856644
 tags:
   - emulation
   - model
@@ -40,7 +44,7 @@ com/pangeo-data/WeatherBench). It consists of NorESM2
 simulation outputs with associated forcing data processed in to a consistent format from a variety of experiments 
 performed for CMIP6. Benchmark models and evaluation criteria are described in the full [publication](https://doi.org/10.1029/2021MS002954). 
 
-*New!* You can now interact with an online ClimateBench emulator [here](climatebench_app)! 
+*New!* You can now interact with an online ClimateBench emulator [here](/projects/climatebench_app)! 
  
 ## Relevant papers
  - **Watson-Parris, D.**, Rao, Y., Olivié, D., Seland, Ø., ... "ClimateBench v1.0: A benchmark for data-driven climate projections". 
@@ -68,11 +72,3 @@ performed for CMIP6. Benchmark models and evaluation criteria are described in t
     Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Accelerating
     simulations in science with deep neural architecture search".
     *Accepted at Machine Learning: Science and Technology:* <https://arxiv.org/abs/2001.08055>  
-
-## Code
- - [ESEm](https://github.com/duncanwp/ESEm)
- - [ClimateBench](https://github.com/duncanwp/ClimateBench)
-
-## Data
- - ClimateBench: <https://doi.org/10.5281/zenodo.5196512>
- - Example Perturbed Parameter Ensemble (Black Carbon): <https://doi.org/10.5281/zenodo.3856644>
