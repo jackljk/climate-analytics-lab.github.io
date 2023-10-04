@@ -9,3 +9,5 @@ main:
     url: /philosophy/
   - title: "Media"
     url: /media/
+  - title: "Teaching"
+    url: /teaching/

@@ -4,20 +4,11 @@ layout: posts
 permalink: /projects/
 entries_layout: grid
 classes: wide
-
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/podcast-header.png
-  caption: "Photo credit: [**Third Pod from the Sun**](https://thirdpodfromthesun.com/)"
-
-
-# https://mmistakes.github.io/minimal-mistakes/portfolio/
 ---
 
 # Projects
 
-Samples of published and ongoing projects by CCOG. Sort them by computational or Earth Science tags.\
-Exciting new CCOG focus areas include sea level and large scale climate dynamics.
+Samples of published and ongoing projects by the Climate Analytics Lab. Sort them by computational or Earth Science tags.
 
 {% case site.tag_archive.type %}
   {% when "liquid" %}
