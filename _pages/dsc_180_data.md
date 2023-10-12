@@ -10,7 +10,7 @@ Let's get hands-on with the data! You should have already received the example n
 
 You will be touching on the following topics.
 
-- Exploring the CMIP6 input and output data 
+- Exploring the CMIP6 output data 
 - Learning about xarray and plotting climate datasets
 
 
