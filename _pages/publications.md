@@ -230,8 +230,6 @@ toc_sticky: true
     and observations". *Geoscientific Model Development, 9(9):*
     <https://doi.org/10.5194/gmd-9-3093-2016>
 
-### (2011-2015 Working in Industry)
-
 ### 2013
  - Badcock, T. J., Hammersley, S., **Watson-Parris, D.,** Dawson, P.,
     \..., McAleese, C., Oliver, R. A., & Humphreys, C. J. (2013).
