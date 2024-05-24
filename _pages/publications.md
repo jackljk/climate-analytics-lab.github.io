@@ -10,11 +10,12 @@ toc_sticky: true
 
 \* = (co-)supervised
 
-### Submitted
- -  \*Bouabid, S., Sejdinovic, D., and **Watson-Parris, D.** *FaIRGP: A Bayesian Energy Balance Model for Surface Temperatures Emulation.* Submitted to Journal of Advances in Modeling Earth Systems: [10.22541/essoar.169008319.96252512/v1](https://doi.org/10.22541/essoar.169008319.96252512/v1)
-- Jordan, G., Haywood, J., Malavelle, F., Chen, Y., Peace, A., Duncan, E., Partridge, D. G., Kim, P., **Watson-Parris, D.**, Takemura, T., Neubauer, D., Myhre, G., Skeie, R., and Laakso, A.: *How well are aerosol-cloud interactions represented in climate models? Part 1: Understanding the sulphate aerosol production from the 2014--15 Holuhraun eruption*. Submitted to Atmospheric Chemistry and Physics
-- Fiedler, S., Naik, V., O'Connor, F.M., Smith, C. J., Pincus, R., Griffiths, P., Kramer, R., Takemura, T., Allen, R.J., Im, U., Kasoar, M., Modak, A., Turnock, S., Voulgarakis, A., **Watson-Parris, D.**, Westervelt, D.M., Wilcox, L.J., Zhao, A, Collins, W.J., Schulz, M., Myhre, G., and Forster P.M. *Interactions between atmospheric composition and climate change - Progress in understanding and future opportunities from AerChemMIP, PDRMIP, and RFMIP.* Submitted to Geoscientific Model Development
-- \*Bouabid, S., W**atson-Parris, D.**, Stefanovic, S., Nenes, A., Sejdinovic, D. *AODisaggregation: toward global aerosol vertical profiles.* Submitted to Environmental Data Science
+### 2024
+ - Niu, R., Wu, D., Kim, K., Ma, Y.-A., **Watson-Parris, D.**, and Yu, R.: *Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling*, Accepted at ICML 2024, [arXiv](https://doi.org/10.48550/arXiv.2402.18846) 
+ -  \*Bouabid, S., Sejdinovic, D., and **Watson-Parris, D.** *FaIRGP: A Bayesian Energy Balance Model for Surface Temperatures Emulation.* Accepted in Journal of Advances in Modeling Earth Systems: [10.22541/essoar.169008319.96252512/v1](https://doi.org/10.22541/essoar.169008319.96252512/v1)
+- Jordan, G., Haywood, J., Malavelle, F., Chen, Y., Peace, A., Duncan, E., Partridge, D. G., Kim, P., **Watson-Parris, D.**, Takemura, T., Neubauer, D., Myhre, G., Skeie, R., and Laakso, A.: *How well are aerosol-cloud interactions represented in climate models? Part 1: Understanding the sulphate aerosol production from the 2014--15 Holuhraun eruption*. Atmos. Chem. Phys., 24, 1939–1960, [10.5194/acp-24-1939-2024](https://doi.org/10.5194/acp-24-1939-2024)
+- Fiedler, S., Naik, V., O'Connor, F.M., Smith, C. J., Pincus, R., Griffiths, P., Kramer, R., Takemura, T., Allen, R.J., Im, U., Kasoar, M., Modak, A., Turnock, S., Voulgarakis, A., **Watson-Parris, D.**, Westervelt, D.M., Wilcox, L.J., Zhao, A, Collins, W.J., Schulz, M., Myhre, G., and Forster P.M. *Interactions between atmospheric composition and climate change - Progress in understanding and future opportunities from AerChemMIP, PDRMIP, and RFMIP.* Geosci. Model Dev., 17, 2387–2417, [10.5194/gmd-17-2387-2024](https://doi.org/10.5194/gmd-17-2387-2024)
+- \*Bouabid, S., W**atson-Parris, D.**, Stefanovic, S., Nenes, A., Sejdinovic, D. *AODisaggregation: toward global aerosol vertical profiles.* Accepted at Environmental Data Science
 
 ### 2023
   - \*Manshausen, P., **Watson-Parris, D.**, Christensen, M. W., Jalkanen, J.-P., and Stier, P. *Rapid saturation of cloud water adjustments to shipping emissions*. Atmospheric Chemistry and Physics (Highlight Letter) 23, [10.5194/egusphere-2023-813](https://doi.org/10.5194/acp-23-12545-2023)

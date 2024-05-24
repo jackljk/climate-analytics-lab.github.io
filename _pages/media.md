@@ -7,6 +7,10 @@ author_profile: true
 
 ## Articles and Interviews
 
+- "Generative AI in Science” in [ACM](https://cacm.acm.org/news/scientific-applications-of-generative-ai/) (2024)
+
+- “How AI is improving climate forecasts” in [Nature](https://www.nature.com/articles/d41586-024-00780-8) (2024)
+
 -   "We're changing the clouds' An unforeseen test of geoengineering is
     fueling record ocean warmth" in [Science
     magazine](https://www.science.org/content/article/changing-clouds-unforeseen-test-geoengineering-fueling-record-ocean-warmth) (2023)

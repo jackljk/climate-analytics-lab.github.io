@@ -1,12 +1,12 @@
 ---
 lastname: "Madan"
-firstname: "Jawahar"
-permalink: /Jawahar/
-pub_id: "Madan J"
+firstname: "Varan"
+permalink: /Varan/
+pub_id: "Madan V"
 role: "PhD Student"
 status: "active"
 sort_display: 2
-image_path: /assets/images/Headshot_PlaceHolder.png
+image_path: /assets/images/headshots/Varan_Madan.jpg
 ---
 
 This is a test
