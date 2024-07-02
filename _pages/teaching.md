@@ -19,6 +19,7 @@ This course introduces students to the theory and practice of deep learning for 
 
 Computing structures and programming concepts such as object orientation, data structures such as queues, heaps, lists, search trees and hash tables. Laboratory skills include data analysis with pandas and xarray in Jupyter notebooks.
 
+ - The syllabus for this course is available [here](https://docs.google.com/document/d/1tzFKGk-_i-EBZ8EoAs3aV0XDtmRKXyOW60dvkvF4KbU/edit?usp=sharing).
  - Please see course canvas page for details: <https://canvas.ucsd.edu/courses/49102>
  - Github repo: <https://github.com/climate-analytics-lab/dsc200-fa23-public/>
 
