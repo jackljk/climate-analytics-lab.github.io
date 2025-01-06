@@ -16,6 +16,13 @@ This course introduces students to the theory and practice of deep learning for 
 
 ## HDSI Courses
 
+### DSC 80 - Practice and Application of Data Science
+
+This course provides an in-depth exploration of data science principles and techniques, bridging lower- and upper-division coursework while covering algorithms, statistics, machine learning, visualization, and data systems, with prerequisites DSC 30 and DSC 40A, and priority given to DS25 majors.
+
+ - The syllabus and all course details are available [here](https://dsc80.com/).
+ - Github [repo](https://github.com/dsc-courses/dsc80-2025-wi).
+
 ### DSC 200 - Data Science Programming
 
 Computing structures and programming concepts such as object orientation, data structures such as queues, heaps, lists, search trees and hash tables. Laboratory skills include data analysis with pandas and xarray in Jupyter notebooks.
